@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Table</string>
+    <string name="firteam">Clouds</string>
+    <string name="secteam">Lightning</string>
+    <string name="clouds">Clouds</string>
+    <string name="lightning">Lightning</string>
+    <string name="reset">Reset</string>
+</resources>

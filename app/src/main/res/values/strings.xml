@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Table</string>
+    <string name="firteam">Облака</string>
+    <string name="secteam">Молния</string>
+    <string name="points">:</string>
+    <string name="clouds">Clouds</string>
+    <string name="lightning">Lightning</string>
+    <string name="reset">Reset</string>
+</resources>
